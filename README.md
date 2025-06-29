@@ -1,6 +1,6 @@
 # Hey, I'm Swadithya!🙋🏻‍♀️
 🎀 Welcome to my little digital nook!
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc4aTl6dGU5ajlzMW91MzE0ZWg2bzVxdXpvOTl4NXdxamd6OWl1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRRL1EKo9rNe12S4zh/giphy.gif" width="290" align="right" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc4aTl6dGU5ajlzMW91MzE0ZWg2bzVxdXpvOTl4NXdxamd6OWl1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRRL1EKo9rNe12S4zh/giphy.gif" width="250" align="right" />
 <br>🌐 sarojswadithya.dev (coming soon...)  <br>💻 Final year CSE-AI student chasing code and reaching sky<br>🧠 Currently exploring AI, full-stack projects & creative coding  <br>🧋You can find me debugging at 2AM with iced coffee<br><br>✨ Forever curious. Forever creating.
 
 
